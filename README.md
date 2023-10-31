@@ -39,7 +39,7 @@
 |<a href="https://github.com/SahhaShin/DANGDANGHAE">당당해</a>|젊은 당뇨 관리를 위한 30분 운동 대결 서비스|LEADER/BE/DB설계|
 |<a href="https://www.youtube.com/watch?v=TGpLaelRwpM">ALGGAGO</a>|롯데X멋쟁이사자처럼 8기, 전국 대학 알까고 AI 알고리즘 설계 우승|PYTHON|
 |<a href="https://github.com/SahhaShin/online-group-vaccine-certification-system">단체 백신 인증시스템</a>|코로나 시기 사전 가게 예약을 통해<br/>참여 인원 전부를 증명할 수 있는 서비스 (운영체제/프로토콜)|JAVA/SWING|
-|<a href="https://github.com/SahhaShin/Implementation-of-student-lists-events-and-fee-management-programs">학생회비 관리시스템</a>|일일이 큐알코드 인증 없이 가게 예약 후 큐알코드를 통한 단체 인증 프로그램|LEADER/C언어|
+|<a href="https://github.com/SahhaShin/Implementation-of-student-lists-events-and-fee-management-programs">학생회비 관리시스템</a>|학번을 통한 학과 학생 등록부터 행사 진행에 따른 자동 정산까지 가능|LEADER/C언어|
 |<a href="https://www.youtube.com/watch?v=08bqftZ0zWY&t=66s">폭탄주 제조기</a>|아두이노를 활용한 폭탄주 자동 제조 기기|C언어/HW|
 
 <br/>
