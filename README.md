@@ -5,6 +5,7 @@
 
 ### strength
 - <a href="https://tksgk2598.tistory.com/">기술 블로그</a>를 운영하며 React, Java, 운영체제, Three.js 등 다채로운 개발 지식을 꾸준히 공유하고 있습니다.
+- 객체지향 언어 JAVA 및 C언어를 이용한 <a href="https://github.com/SahhaShin/coding_test">알고리즘 문제 풀이</a>를 꾸준히 진행하고 있습니다.
 
 <br/>
 
@@ -48,6 +49,7 @@
 |:---:|:---:|:---:|
 |우리지금만나(장려상)|2018년 교내 해커톤 대회 출전작<br/>사용자간 중간 거리 탐색 앱 서비스<br/>핫플레이스 및 놀거리 추천|기획<br/>카카오 오븐을 이용한 화면설계<br/>핫플레이스 데이터 3만 건 수집 및 가공|
 
+<br/>
 
 ### Contact
 📫 : tksgk2598046@gmail.com <br/>
