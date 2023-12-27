@@ -11,7 +11,7 @@
 <br/>
 
 ### Career
-- 2023.01 ~ : Samsung SW Academy 9th <br/>
+- 2023.01 ~ 2023.12 : Samsung SW Academy 9th <br/>
 - 2021.03 ~ 2022.09 : Working for the new F&B business team at INGSTORY <br/>
 - 2020.04 ~ 2020.11 : Web development central club LIKELION 8th <br/>
 - 2018.03 ~ 2022.03 : Double major in software department at Gachon Univ <br/>
