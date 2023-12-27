@@ -32,15 +32,15 @@
 ### Projects
 |TITLE|INTRO|ROLE|
 |:---:|:---:|:---:|
-|<a href="https://github.com/LingoTown">Lingo Town</a>|AI와 대화하는 메타버스 언어마을|FE/3D구현|
-|<a href="https://github.com/Sleep-Mate">Sleep Mate</a>|카메라와 스마트워치를 이용한 수면 자세 분석 서비스|FE/UI/최종발표|
-|<a href="https://github.com/SOLlatido">쏠쏠한 여행</a>|지역경제 활성화 도모 및 여행 지출 관리 서비스|FE/UI|
-|<a href="https://github.com/SahhaShin/HOW-DO-I-LOOK">HOW DO I LOOK</a>|화상 채팅을 통한 코디조언 서비스|LEADER/FE/UI|
-|<a href="https://github.com/TheSecondLife">Second Life</a>|시니어를 위한 음성 기반 취업/병원/문화 정보 제공 서비스|FE/UI|
-|<a href="https://github.com/SahhaShin/DANGDANGHAE">당당해</a>|젊은 당뇨 관리를 위한 30분 운동 대결 서비스|LEADER/BE/DB설계|
+|<a href="https://github.com/LingoTown">Lingo Town</a>|AI와 대화하는 메타버스 언어마을|FE/기획/ERD|
+|<a href="https://github.com/Sleep-Mate">Sleep Mate</a>|카메라와 스마트워치를 이용한 수면 자세 분석 서비스|FE/기획/ERD|
+|<a href="https://github.com/SOLlatido">쏠쏠한 여행</a>|지역경제 활성화 도모 및 여행 지출 관리 서비스|FE/기획//ERD|
+|<a href="https://github.com/SahhaShin/HOW-DO-I-LOOK">HOW DO I LOOK</a>|화상 채팅을 통한 코디조언 서비스|FE/기획/ERD/LEADER|
+|<a href="https://github.com/TheSecondLife">Second Life</a>|시니어를 위한 음성 기반 취업/병원/문화 정보 제공 서비스|FE/기획|
+|<a href="https://github.com/SahhaShin/DANGDANGHAE">당당해</a>|젊은 당뇨 관리를 위한 30분 운동 대결 서비스|BE/기획/DB/LEADER|
 |<a href="https://www.youtube.com/watch?v=TGpLaelRwpM">ALGGAGO</a>|롯데X멋쟁이사자처럼 8기, 전국 대학 알까고 AI 알고리즘 설계 우승|PYTHON|
 |<a href="https://github.com/SahhaShin/online-group-vaccine-certification-system">단체 백신 인증시스템</a>|코로나 시기 사전 가게 예약을 통해<br/>참여 인원 전부를 증명할 수 있는 서비스 (운영체제/프로토콜)|JAVA/SWING|
-|<a href="https://github.com/SahhaShin/Implementation-of-student-lists-events-and-fee-management-programs">학생회비 관리시스템</a>|학번을 통한 학과 학생 등록부터 행사 진행에 따른 자동 정산까지 가능|LEADER/C언어|
+|<a href="https://github.com/SahhaShin/Implementation-of-student-lists-events-and-fee-management-programs">학생회비 관리시스템</a>|학번을 통한 학과 학생 등록부터 행사 진행에 따른 자동 정산까지 가능|C언어/LEADER|
 |<a href="https://www.youtube.com/watch?v=08bqftZ0zWY&t=66s">폭탄주 제조기</a>|아두이노를 활용한 폭탄주 자동 제조 기기|C언어/HW|
 
 <br/>
