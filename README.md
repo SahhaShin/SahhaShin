@@ -1,12 +1,12 @@
 ## 💙 Welcome to Sanha's Coding History 💙
-안녕하세요 <b>?를 !로 만드는 개발자</b> 신산하입니다.<br/>
+안녕하세요 <b>배우고 싶은 것이 많은 꿈 많은 개발자</b> 신산하입니다.<br/>
 풀리지 않는 문제를 획기적인 아이디어를 더한 IT 서비스로 해결합니다.
 
 <br/>
 
 ### Strength
 - <a href="https://tksgk2598.tistory.com/">기술 블로그</a>를 운영하며 React, Java, 운영체제, Three.js 등 다채로운 개발 지식을 꾸준히 공유하고 있습니다.
-- 객체지향 언어 JAVA 및 C언어를 이용한 <a href="https://github.com/SahhaShin/coding_test">알고리즘 문제 풀이</a>를 꾸준히 진행하고 있습니다.
+- 객체지향 언어 JAVA 및 C언어를 이용한 <a href="https://github.com/TheCSLife/TheAlgoLife">알고리즘 문제 풀이</a>를 꾸준히 진행하고 있습니다.
 
 <br/>
 
